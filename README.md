@@ -2,8 +2,8 @@
 Jednostavna aplikacija za unos knjiga na listu za čitanje.
 Školski projekt.
 
-#Autor
+# Autor
 Ivana Lakuš
 
-#Tehnologija
+# Tehnologija
 * Korišten je ASP.NET Core framework kroz MVC.
